@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+		<key>guanqia</key>
+		<string>关卡</string>
+    
+		<key>mubiao</key>
+		<string>目标</string>
+  
+		<key>fen</key>
+		<string>分</string>
+  
+		<key>highestScore</key>
+		<string>最高分</string>
+  
+		<key>lianxiao</key>
+		<string>连消</string>
+  
+		<key>shengyu</key>
+		<string>剩余</string>
+  
+		<key>ge</key>
+		<string>个</string>
+  
+		<key>jiangli</key>
+		<string>奖励</string>
+  
+		<key>gameover</key>
+		<string>游戏结束</string>
+  
+		<key>star</key>
+		<string>星星</string>
+    </dict>
+</plist>
